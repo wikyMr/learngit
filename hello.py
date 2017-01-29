@@ -1,1 +1,1 @@
-print("hello,ptthon,hahahahah!");
+print("hello,python,hahaha!");
